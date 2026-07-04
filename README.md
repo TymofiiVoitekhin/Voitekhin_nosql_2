@@ -110,7 +110,9 @@ $$\cos(\theta) = \mathbf{A} \cdot \mathbf{B}$$
 Топ-5 індексів (Cosine Sim):    [ 378 3350 4115  610 3181]
 Топ-5 індексів (L2 Distance):   [ 378 3350 4115  610 3181]
 
-Висновок: Індекси топ-5 документів для всіх трьох метрик збігаються: True ```
+Висновок: Індекси топ-5 документів для всіх трьох метрик збігаються: True 
+
+```
 
 ## Частина 4 — Chunking
 
@@ -169,7 +171,7 @@ Overlap (перекриття) — це дублювання частини те
     Chunk text: Two conjectures, an additional rotation in the fourth curled-up dimension and the weight factors on the eigenvectors, are proposed to serve as a boundary condition to deal with the topologic problem of the 3D Ising model....
 
 [3] Score: 0.7795 | Article: (Co)cyclic (co)homology of bialgebroids: An approach via (co)monads
-    Chunk text: As an application, we compute Hochschild and cyclic homology of a groupoid with coefficients, by tracing it back to the group case. In particular, we obtain explicit expressions for ordinary Hochschild and cyclic homology of a groupoid....```
+    Chunk text: As an application, we compute Hochschild and cyclic homology of a groupoid with coefficients, by tracing it back to the group case. In particular, we obtain explicit expressions for ordinary Hochschild and cyclic homology of a groupoid....
 
-
+```
 
